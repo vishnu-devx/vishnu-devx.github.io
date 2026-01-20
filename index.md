@@ -50,5 +50,6 @@ Developed a mobile application using Flutter / Swift with a focus on clean UI an
 ---
 
 ## Contact
-- GitHub: https://github.com/vishnu-devx
-- Email: k.vishnu.y@gmail.com
+- **GitHub:** [github.com/vishnu-devx](https://github.com/vishnu-devx)
+- **Email:** [k.vishnu.y@gmail.com](mailto:k.vishnu.y@gmail.com)
+
