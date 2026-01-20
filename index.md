@@ -1,55 +1,76 @@
-# Kumar Vishnu Yadav
+# Profile
 
-**MSc Computer Science (Data Science – Deep Learning)**  
-Accelerated Master’s Program | Swift & Flutter App Development
+## Kumar Vishnu Yadav
+
+**MSc Computer Science (Data Science & Deep Learning)**  
+Data Science | Machine Learning | Deep Learning | Mobile App Development
 
 ---
 
 ## About Me
-I am pursuing an accelerated Master’s program in Computer Science with a specialization in Data Science and Deep Learning. My academic focus is on machine learning, deep learning models, and data-driven problem solving. Alongside my core specialization, I have hands-on experience in mobile application development using Swift and Flutter, enabling me to build end-to-end solutions that combine intelligent models with real-world applications.
+Master’s-level Computer Science professional specializing in Data Science and Deep Learning. Experienced in data analysis, machine learning model development, and deep learning fundamentals using Python. Strong foundation in data preprocessing, exploratory data analysis, feature engineering, and model evaluation. Additional experience in mobile application development using Swift and Flutter to build practical, end-to-end software solutions.
 
 ---
 
 ## Skills
 
-### Data Science & Deep Learning
+### Programming Languages
 - Python
-- NumPy, Pandas
-- Scikit-learn
-- Machine Learning fundamentals
-- Deep Learning (TensorFlow / PyTorch – learning)
+- Swift
+- Dart
+
+### Data Science & Machine Learning
+- Data Analysis
+- Data Preprocessing
+- Feature Engineering
+- Exploratory Data Analysis (EDA)
+- Machine Learning Algorithms
+- Model Evaluation
+- Statistical Analysis
+
+### Deep Learning
+- Neural Networks
+- TensorFlow (Beginner)
+- PyTorch (Beginner)
 
 ### Mobile App Development
-- Swift (iOS)
-- Flutter (Cross-platform)
+- iOS App Development (Swift)
+- Cross-platform App Development (Flutter)
 
-### Tools
+### Tools & Platforms
 - Git
 - GitHub
+- Jupyter Notebook
 
 ---
 
 ## Projects
 
-### Deep Learning Project
-Worked on data preprocessing, model training, and evaluation for a deep learning–based problem using Python and machine learning libraries. Focused on understanding model performance and optimization techniques.
+### Deep Learning Project — Image Classification
+- Built and evaluated deep learning models for image classification tasks
+- Performed data preprocessing and model training using Python
+- Applied model performance evaluation techniques to improve accuracy
 
-### Data Science Project
-Performed data analysis and feature engineering on structured datasets using Pandas and NumPy. Built and evaluated machine learning models to extract insights from data.
+### Data Science Project — Data Analysis & Machine Learning
+- Conducted exploratory data analysis on structured datasets
+- Implemented machine learning models using Scikit-learn
+- Applied feature engineering and model evaluation techniques
 
-### Mobile Application Project
-Developed a mobile application using Flutter / Swift with a focus on clean UI and core functionality. Gained experience in application architecture and deployment basics.
+### Mobile Application Project — Flutter / Swift
+- Developed mobile applications using Flutter and Swift
+- Implemented clean UI components and basic application architecture
+- Built scalable application structure suitable for backend integration
 
 ---
 
 ## Education
-- **Accelerated MS in Computer Science (Data Science – Deep Learning)**  
-  Clark University, USA   
-  **Expected Completion:** 2027
+**Accelerated MS in Computer Science (Data Science & Deep Learning)**  
+Clark University, USA (via upGrad)  
+Expected Completion: 2027
 
 ---
 
 ## Contact
-- **GitHub:** [github.com/vishnu-devx](https://github.com/vishnu-devx)
+- **GitHub:** [https://github.com/vishnu-devx](https://github.com/vishnu-devx)
 - **Email:** [k.vishnu.y@gmail.com](mailto:k.vishnu.y@gmail.com)
 
