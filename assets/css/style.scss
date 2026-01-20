@@ -1,35 +1,46 @@
-/* ===== Professional Left Sidebar Styling ===== */
+@import "jekyll-theme-minimal";
 
-/* Name */
+/* ================================
+   Professional Portfolio Styling
+   Left Sidebar / Header
+   ================================ */
+
+.wrapper {
+  max-width: 1100px;
+}
+
+.wrapper header {
+  max-width: 260px;
+}
+
 header h1 {
-  font-size: 1.5rem;
+  font-size: 1.45rem;
   font-weight: 600;
-  color: #1f2937; /* dark professional gray */
+  color: #1f2937;
   letter-spacing: 0.2px;
   margin-bottom: 0.4rem;
+  white-space: nowrap;
 }
 
-/* Degree text under photo */
 header p {
-  font-size: 0.9rem;
-  color: #6b7280; /* muted gray */
+  font-size: 0.88rem;
+  color: #6b7280;
   line-height: 1.4;
   margin-top: 0.4rem;
+  white-space: nowrap;
 }
 
-/* Profile photo */
 header img {
   width: 160px;
   height: auto;
-  border-radius: 6px; /* subtle professional corners */
+  border-radius: 6px;
   margin: 0.6rem 0;
 }
 
-/* GitHub link */
 header a {
   font-size: 0.9rem;
   font-weight: 500;
-  color: #2563eb; /* professional blue */
+  color: #2563eb;
   text-decoration: none;
 }
 
@@ -37,6 +48,6 @@ header a:hover {
   text-decoration: underline;
 }
 
-
-
-@import "jekyll-theme-minimal";
+header {
+  padding-top: 1rem;
+}
