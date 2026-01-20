@@ -1,4 +1,4 @@
-# Vishnu
+# Kumar Vishnu Yadav
 
 **MSc Computer Science (Data Science – Deep Learning)**  
 Accelerated Master’s Program | Swift & Flutter App Development
