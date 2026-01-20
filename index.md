@@ -65,7 +65,7 @@ Master’s-level Computer Science professional specializing in Data Science and 
 
 ## Education
 **Accelerated MS in Computer Science (Data Science & Deep Learning)**  
-Clark University, USA (via upGrad)  
+Clark University, USA 
 Expected Completion: 2027
 
 ---
