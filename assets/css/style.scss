@@ -1,17 +1,42 @@
----
----
-/* Make left-side name professional */
+/* ===== Professional Left Sidebar Styling ===== */
+
+/* Name */
 header h1 {
-  font-size: 1.6rem;
-  color: #222;
+  font-size: 1.5rem;
   font-weight: 600;
-  margin-bottom: 0.5rem;
+  color: #1f2937; /* dark professional gray */
+  letter-spacing: 0.2px;
+  margin-bottom: 0.4rem;
 }
 
-/* Reduce space above image */
-header img {
-  margin-top: 0.5rem;
+/* Degree text under photo */
+header p {
+  font-size: 0.9rem;
+  color: #6b7280; /* muted gray */
+  line-height: 1.4;
+  margin-top: 0.4rem;
 }
+
+/* Profile photo */
+header img {
+  width: 160px;
+  height: auto;
+  border-radius: 6px; /* subtle professional corners */
+  margin: 0.6rem 0;
+}
+
+/* GitHub link */
+header a {
+  font-size: 0.9rem;
+  font-weight: 500;
+  color: #2563eb; /* professional blue */
+  text-decoration: none;
+}
+
+header a:hover {
+  text-decoration: underline;
+}
+
 
 
 @import "jekyll-theme-minimal";
