@@ -45,7 +45,7 @@ Developed a mobile application using Flutter / Swift with a focus on clean UI an
 ## Education
 - **Accelerated MS in Computer Science (Data Science – Deep Learning)**  
   Clark University, USA   
-  **Expected Completion:** 2026
+  **Expected Completion:** 2027
 
 ---
 
