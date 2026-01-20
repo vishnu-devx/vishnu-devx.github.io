@@ -1,4 +1,17 @@
 ---
 ---
+/* Make left-side name professional */
+header h1 {
+  font-size: 1.6rem;
+  color: #222;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+}
+
+/* Reduce space above image */
+header img {
+  margin-top: 0.5rem;
+}
+
 
 @import "jekyll-theme-minimal";
