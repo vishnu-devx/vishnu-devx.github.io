@@ -2,10 +2,11 @@ title: Kumar Vishnu Yadav
 description: MSc Computer Science (Data Science – Deep Learning)
 theme: jekyll-theme-minimal
 
+logo: /assets/profile.png
+
 github:
   is_project_page: false
 
 social_links:
   github: vishnu-devx
-  # linkedin: your-linkedin-username
 
